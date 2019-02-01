@@ -1,29 +1,29 @@
 html, body, dl {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-    font-size: 16px;
-    width: 200px;
+  font-size: 16px;
+  width: 200px;
 }
 
 header {
-    background: #2077ce;
-    padding: 10px;
-    color: #fff;
+  background: #2077ce;
+  padding: 10px;
+  color: #fff;
 }
 
 dl {
-    padding: 10px 10px 0;
+  padding: 10px 10px 0;
 }
 
 dt {
-    padding-bottom: 5px;
+  padding-bottom: 5px;
 }
 
 dt:last-child {
-    padding-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 dd {
@@ -32,13 +32,13 @@ dd {
 }
 
 a {
-    color: #336688;
+  color: #336688;
 }
 
 a:hover {
-    color: #28517a;
+  color: #28517a;
 }
 
 a:visited {
-    color: #5b84ad;
+  color: #5b84ad;
 }
